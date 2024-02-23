@@ -1,0 +1,54 @@
+.heading{
+background-color:#283665;
+color:white;
+margin:26px;
+font-family:Ascender Serif WGL Bold;
+}
+.body{
+color:black;
+margin:26px;
+font-family:Ascender Serif WGL Bold;
+}
+h4{
+font-size:18;
+color:#554444;line-height:10px;
+}
+hr{
+    width:50%;
+    text-align:left;
+    margin-left:0;
+    line-height:10px;
+}
+.skills hr{
+    width:90%;
+    text-align:left;
+    margin-left:0;
+    line-height:10px;
+}
+p{
+    font-family: Arial,sans-serif;
+    width:50%;text-align:left;
+    margin-left:0;
+}
+h5
+{
+    color:#554444;
+    font-family: Arial, sans-serif;
+    width:50%;
+    text-align:left;
+    margin-left:0;
+    line-height:10px;
+}
+.dot{
+    height: 25px;
+    width: 25px;
+    background-color:#283665;
+    border-radius: 50%;
+    display: inline-block;
+    }
+    .body .skills {
+        position: absolute;
+        top: 150;
+        right: 0;
+        width: 40%; 
+      }
